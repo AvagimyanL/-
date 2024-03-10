@@ -1,0 +1,54 @@
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\Новая папка\Проект\Проект\bin\Debug\Проект.exe.config
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\Новая папка\Проект\Проект\bin\Debug\Проект.exe
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\Новая папка\Проект\Проект\bin\Debug\Проект.pdb
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\Новая папка\Проект\Проект\obj\Debug\Проект.csproj.AssemblyReference.cache
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\Новая папка\Проект\Проект\obj\Debug\Проект.csproj.SuggestedBindingRedirects.cache
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\Новая папка\Проект\Проект\obj\Debug\Проект.Form1.resources
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\Новая папка\Проект\Проект\obj\Debug\Проект.Properties.Resources.resources
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\Новая папка\Проект\Проект\obj\Debug\Проект.csproj.GenerateResource.cache
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\Новая папка\Проект\Проект\obj\Debug\Проект.csproj.CoreCompileInputs.cache
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\Новая папка\Проект\Проект\obj\Debug\Проект.exe
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\Новая папка\Проект\Проект\obj\Debug\Проект.pdb
+\\antares\K35\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\bin\Debug\Проект.exe.config
+\\antares\K35\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\bin\Debug\Проект.exe
+\\antares\K35\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\bin\Debug\Проект.pdb
+\\antares\K35\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\obj\Debug\Проект.csproj.AssemblyReference.cache
+\\antares\K35\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\obj\Debug\Проект.csproj.SuggestedBindingRedirects.cache
+\\antares\K35\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\obj\Debug\Проект.Form1.resources
+\\antares\K35\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\obj\Debug\Проект.Properties.Resources.resources
+\\antares\K35\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\obj\Debug\Проект.csproj.GenerateResource.cache
+\\antares\K35\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\obj\Debug\Проект.csproj.CoreCompileInputs.cache
+\\antares\K35\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\obj\Debug\Проект.exe
+\\antares\K35\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\obj\Debug\Проект.pdb
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\bin\Debug\Проект.exe.config
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\bin\Debug\Проект.exe
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\bin\Debug\Проект.pdb
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\obj\Debug\Проект.csproj.AssemblyReference.cache
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\obj\Debug\Проект.csproj.SuggestedBindingRedirects.cache
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\obj\Debug\Проект.Form1.resources
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\obj\Debug\Проект.Properties.Resources.resources
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\obj\Debug\Проект.csproj.GenerateResource.cache
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\obj\Debug\Проект.csproj.CoreCompileInputs.cache
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\obj\Debug\Проект.exe
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2\Проект\obj\Debug\Проект.pdb
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2_Версия_2\Проект\bin\Debug\Проект.exe.config
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2_Версия_2\Проект\bin\Debug\Проект.exe
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2_Версия_2\Проект\bin\Debug\Проект.pdb
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2_Версия_2\Проект\obj\Debug\Проект.csproj.AssemblyReference.cache
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2_Версия_2\Проект\obj\Debug\Проект.csproj.SuggestedBindingRedirects.cache
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2_Версия_2\Проект\obj\Debug\Проект.Form1.resources
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2_Версия_2\Проект\obj\Debug\Проект.Properties.Resources.resources
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2_Версия_2\Проект\obj\Debug\Проект.csproj.GenerateResource.cache
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2_Версия_2\Проект\obj\Debug\Проект.csproj.CoreCompileInputs.cache
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2_Версия_2\Проект\obj\Debug\Проект.exe
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП2_Версия_2\Проект\obj\Debug\Проект.pdb
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП2_Версия_2\Проект\bin\Debug\Проект.exe.config
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП2_Версия_2\Проект\bin\Debug\Проект.exe
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП2_Версия_2\Проект\bin\Debug\Проект.pdb
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП2_Версия_2\Проект\obj\Debug\Проект.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП2_Версия_2\Проект\obj\Debug\Проект.Form1.resources
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП2_Версия_2\Проект\obj\Debug\Проект.Properties.Resources.resources
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП2_Версия_2\Проект\obj\Debug\Проект.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП2_Версия_2\Проект\obj\Debug\Проект.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП2_Версия_2\Проект\obj\Debug\Проект.exe
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП2_Версия_2\Проект\obj\Debug\Проект.pdb
