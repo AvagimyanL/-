@@ -1,0 +1,16 @@
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП7\Video\Video\bin\Debug\Video.exe.config
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП7\Video\Video\bin\Debug\Video.exe
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП7\Video\Video\bin\Debug\Video.pdb
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП7\Video\Video\bin\Debug\Interop.WMPLib.dll
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП7\Video\Video\bin\Debug\AxInterop.WMPLib.dll
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП7\Video\Video\obj\Debug\Video.csproj.AssemblyReference.cache
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП7\Video\Video\obj\Debug\Video.csproj.SuggestedBindingRedirects.cache
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП7\Video\Video\obj\Debug\Interop.WMPLib.dll
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП7\Video\Video\obj\Debug\AxInterop.WMPLib.dll
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП7\Video\Video\obj\Debug\Video.csproj.ResolveComReference.cache
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП7\Video\Video\obj\Debug\Video.Form1.resources
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП7\Video\Video\obj\Debug\Video.Properties.Resources.resources
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП7\Video\Video\obj\Debug\Video.csproj.GenerateResource.cache
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП7\Video\Video\obj\Debug\Video.csproj.CoreCompileInputs.cache
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП7\Video\Video\obj\Debug\Video.exe
+Z:\ОБМЕН\УП 01.01 П-31\Авагимян\УП7\Video\Video\obj\Debug\Video.pdb

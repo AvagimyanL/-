@@ -1,0 +1,62 @@
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\AudioOpenUPsix.exe.config
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\AudioOpenUPsix.exe
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\AudioOpenUPsix.pdb
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\obj\Debug\AudioOpenUPsix.csproj.AssemblyReference.cache
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\obj\Debug\AudioOpenUPsix.Form1.resources
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\obj\Debug\AudioOpenUPsix.Properties.Resources.resources
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\obj\Debug\AudioOpenUPsix.csproj.GenerateResource.cache
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\obj\Debug\AudioOpenUPsix.csproj.CoreCompileInputs.cache
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\obj\Debug\AudioOpenUPsix.exe
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\obj\Debug\AudioOpenUPsix.pdb
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.Asio.dll
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.Core.dll
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.dll
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.Midi.dll
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.Wasapi.dll
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.WinForms.dll
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.WinMM.dll
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\System.Security.AccessControl.dll
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\System.Security.Principal.Windows.dll
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.xml
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.Asio.xml
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.Core.xml
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.Midi.xml
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.Wasapi.xml
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.WinForms.xml
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.WinMM.xml
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\System.Security.AccessControl.xml
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\System.Security.Principal.Windows.xml
+D:\Гурылев\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\obj\Debug\AudioOpenUPsix.csproj.CopyComplete
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\AudioOpenUPsix.exe.config
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\AudioOpenUPsix.exe
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\AudioOpenUPsix.pdb
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.Asio.dll
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.Core.dll
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.dll
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.Midi.dll
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.WinForms.dll
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.WinMM.dll
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.xml
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.Asio.xml
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.Core.xml
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.Midi.xml
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.WinForms.xml
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\NAudio.WinMM.xml
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\obj\Debug\AudioOpenUPsix.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\obj\Debug\AudioOpenUPsix.Form1.resources
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\obj\Debug\AudioOpenUPsix.Properties.Resources.resources
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\obj\Debug\AudioOpenUPsix.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\obj\Debug\AudioOpenUPsix.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\obj\Debug\AudioOpenUPsix.csproj.CopyComplete
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\obj\Debug\AudioOpenUPsix.exe
+C:\Users\Acer\Desktop\учёба\Учебная практика\!! 3 курс УП\ВТОРОЙ СЕМЕСТР\УП6\WindowsFormAudioOpen\AudioOpenUPsix\AudioOpenUPsix\obj\Debug\AudioOpenUPsix.pdb
